@@ -1,0 +1,5 @@
+This is a Ray tracer built for the class CSC 305 at UVIC. It handles flat surface intersections, sphere intersections, sphere color. 
+
+
+
+TODO: Shadows, lighting on flat surfaces, proper intersectsions,multithreading for the anti aliasing. UPLOAD images taken. 
